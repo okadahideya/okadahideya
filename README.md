@@ -19,12 +19,6 @@ Here are some ideas to get you started:
     <img height="20" src="https://img.shields.io/github/followers/okadahideya?label=follow&logo=github&style=flat" />
   </a>
   <a href="http://qiita.com/okadahideya">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/okadahideya/posts.svg" />
-  </a>
-  <a href="http://qiita.com/okadahideya">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/okadahideya/contributions.svg" />
-  </a>
-  <a href="https://zenn.dev/okadahideya">
-    <img height="20" src="https://badgen.org/img/zenn/okadahideya/articles?style=plastic" />
+    <img height="20" src="[https://qiita-badge.apiapi.app/s/okadahideya/posts.svg](https://qiita-badge.apiapi.app/s/0511hideya/posts.svg)](http://qiita.com/0511hideya)" />
   </a>
 </p>
