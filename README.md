@@ -14,11 +14,7 @@ I have been working in the IT industry for four years! Currently, I am working a
   </a>
 </p>
 
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=okadahideya&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
 <img src="https://github-readme-stats.vercel.app/api?username=okadahideya&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
-<img src="https://github-profile-trophy.vercel.app/?username=okadahideya&theme=juicyfresh&no-bg=true" />
-
 
 ## Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=okadahideya&theme=gruvbox)
