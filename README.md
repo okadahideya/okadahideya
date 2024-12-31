@@ -13,3 +13,13 @@ I have been working in the IT industry for four years! Currently, I am working a
     <img height="20" src="https://qiita-badge.apiapi.app/s/0511hideya/contributions.svg" />
   </a>
 </p>
+
+## Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=okadahideya&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=okadahideya&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=okadahideya&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=okadahideya&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=okadahideya&theme=gruvbox&utcOffset=9)
+
+## Trophy
+![trophy](https://github-profile-trophy.vercel.app/?username=okadahideya&theme=gruvbox)
