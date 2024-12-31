@@ -19,6 +19,6 @@ Here are some ideas to get you started:
     <img height="20" src="https://img.shields.io/github/followers/okadahideya?label=follow&logo=github&style=flat" />
   </a>
   <a href="http://qiita.com/0511hideya">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/0511hideya/posts.svg" />
+    <img height="20" src="https://qiita-badge.apiapi.app/s/0511hideya/contributions.svg" />
   </a>
 </p>
